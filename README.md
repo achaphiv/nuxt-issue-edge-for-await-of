@@ -1,5 +1,7 @@
 # nuxt-issue-edge-for-await-of
 
+https://github.com/nuxt/nuxt.js/issues/6701
+
 > My first-rate Nuxt.js project
 
 ## Build Setup
