@@ -43,6 +43,10 @@ export default {
   ** Build configuration
   */
   build: {
+    babel: {
+      plugins: ['@babel/plugin-proposal-async-generator-functions']
+    },
+
     /*
     ** You can extend webpack config here
     */
