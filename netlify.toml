@@ -1,6 +1,6 @@
 [build]
   publish = "dist/"
-  command = "yarn run generate --modern"
+  command = "yarn run generate"
 
 [[redirects]]
   from = "/*"
